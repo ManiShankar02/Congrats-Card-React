@@ -1,0 +1,29 @@
+.container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  background-size: cover;
+}
+
+.head {
+  color: black;
+  text-align: center;
+  font-family: "Roboto";
+  padding: 10px;
+  margin: 10px;
+}
+
+.subContainer {
+  background-color: #cffafe;
+}
+
+.heading {
+  color: black;
+  text-align: center;
+  font-family: "Roboto";
+  padding: 10px;
+  margin: 10px;
+}
+
+.image {
+  border-radius: 40px;
+  width: 80px;
+}
